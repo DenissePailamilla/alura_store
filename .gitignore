@@ -1,0 +1,31 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+*.log
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+*.ipynb_convert*
+*.ipynb~
+*.nbconvert/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data (no subir datos reales/sensibles)
+data/*.csv
+data/*.xlsx
+data/*.parquet
+!data/.gitkeep
+
+# Figures (opcional ignorar imágenes generadas)
+figs/*.png
+figs/*.jpg
+!figs/.gitkeep
+
