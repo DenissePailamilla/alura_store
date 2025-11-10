@@ -29,3 +29,7 @@ figs/*.png
 figs/*.jpg
 !figs/.gitkeep
 
+
+!data/kpi_resumen_alurastore.csv
+!figs/*.png
+!figs/*.jpg
