@@ -73,3 +73,15 @@ git push
 - Mantén los gráficos exportados en `figs/` si los usas en el README.
 - No subas datos sensibles.
 - Puedes crear un `src/utils.py` para funciones reutilizables de análisis y gráficos.
+
+## Resultados (visualizaciones clave)
+
+![A1 – Facturación total por tienda](figs/a1_facturacion.png)
+
+![A2 – Top categorías por ingreso (ej. Tienda 1)](figs/a2_top_categorias_ingreso_tienda1.png)
+
+![A4 – Ingreso vs. Ventas (scatter) – Productos (opcional)](figs/a4_top_ingreso_tienda1.png)
+
+![A3 – Rating promedio mensual por tienda (área apilada)](figs/a3_area_apilada_rating.png)
+
+![A5 – Distribución de costo de envío por tienda (boxplot)](figs/a5_boxplot_envio.png)
